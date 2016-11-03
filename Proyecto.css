@@ -1,0 +1,109 @@
+body{
+	height:100%;
+	width: 100%;
+	background-color: #F7BE81;
+}
+
+form{
+	height: 60px;
+	width: 100px;
+}
+
+select{
+	
+	height: 50px;
+	margin-left: 525px;
+	font-size: 2em;
+	background-color: #FD8324;
+}
+
+ th, td {
+    border: 1px solid black;
+    background-color: white;
+}
+
+th{
+	background-color: #C47335;
+	font-size: 1.5em;
+}
+
+tr{
+	height: 50px;
+}
+td {
+	width:200px;
+	text-align: center;
+	font-size: 1.3em;
+}
+
+#central{
+	margin-left: 4%;
+	display: inline-block;
+	float: left;
+	width:91%;
+}
+
+#sinB{
+	border: none;
+	background-color: #F7BE81;;
+
+}
+
+.horas{
+	background-color: #C47335;
+}
+
+#añadido{
+	visibility: hidden;
+}
+
+#footer{
+	left: 230px;
+	top: 530px;
+	position: absolute;
+	width: 700px;
+}
+
+p{
+	margin-left: 35%;
+	position: center;
+}
+
+#formulario{
+	display: inline-block;
+	float:left;
+	width: 30%;
+}
+
+#otroSelect{
+	visibility: collapse;
+}
+
+#formulario td{
+	background-color: #F7F1ED;
+}
+
+#boton2{
+	visibility: collapse;
+	height: 53px;
+	width: 100px;
+	margin-left: 125px;
+	background-color: #FD8324;
+	font-size: 1.5em;
+}
+
+#otroSelect input{
+	width: 60px;
+}
+
+.cabecera{
+	background-color: #C47335;
+	
+}
+
+
+
+
+
+
+
